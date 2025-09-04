@@ -17,3 +17,15 @@ body{
 a{
   text-decoration: none;
 }
+/* Base (mobile) layout styles */
+body { font-size: 16px; }
+
+@media (min-width: 768px) {
+  body { font-size: 18px; }
+  /* Maybe convert to multi-column layout, resize nav, etc. */
+}
+
+@media (min-width: 1024px) {
+  body { font-size: 20px; }
+  /* Desktop layout adjustments */
+}
