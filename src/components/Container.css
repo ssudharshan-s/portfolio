@@ -71,15 +71,27 @@
         transform:translateY(-20px);
     }
 }
+<<<<<<< HEAD
 
+=======
+/* Base (mobile) layout styles */
+>>>>>>> e30c429901faa3b1016310b836b50421d6503713
 body { font-size: 16px; }
 
 @media (min-width: 768px) {
   body { font-size: 18px; }
+<<<<<<< HEAD
   
+=======
+  /* Maybe convert to multi-column layout, resize nav, etc. */
+>>>>>>> e30c429901faa3b1016310b836b50421d6503713
 }
 
 @media (min-width: 1024px) {
   body { font-size: 20px; }
+<<<<<<< HEAD
   
+=======
+  /* Desktop layout adjustments */
+>>>>>>> e30c429901faa3b1016310b836b50421d6503713
 }

@@ -14,10 +14,16 @@ const Container = () =>{
                 <h2 >Hi! I'm Sudharshan
                      Web Developer</h2>
                 <p>This is My portfolio</p>
+<<<<<<< HEAD
 <a className="con" href={resume} target="_blank" rel="noopener noreferrer">
   Resume
 </a>
                
+=======
+            <a className="con" href={resume} target="_blank" rel="noopener noreferrer">
+  Resume
+  </a>    
+>>>>>>> e30c429901faa3b1016310b836b50421d6503713
             </div>
             <div className="image">
                <img className="img" src={img} alt=""></img>
