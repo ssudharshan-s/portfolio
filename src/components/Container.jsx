@@ -14,9 +14,9 @@ const Container = () =>{
                 <h2 >Hi! I'm Sudharshan
                      Web Developer</h2>
                 <p>This is My portfolio</p>
-                <a className="con" href={resume} target="_blank" rel="noopener noreferrer">
+            <a className="con" href={resume} target="_blank" rel="noopener noreferrer">
   Resume
-  </a>
+  </a>    
             </div>
             <div className="image">
                <img className="img" src={img} alt=""></img>
